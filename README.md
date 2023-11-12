@@ -1,5 +1,5 @@
 # cancer mistery
-![ enigma](https://www.interaliamag.org/wp-content/uploads/2021/11/2_Lung-tumour-image-1.png){: style="width400px; float:right;"}
+![ enigma](https://www.interaliamag.org/wp-content/uploads/2021/11/2_Lung-tumour-image-1.png){ style="width400px; float:right;"}
 
 
 
