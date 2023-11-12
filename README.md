@@ -4,7 +4,7 @@
 ## "The Origins of Cancer: Tracing the Unknown"
 Cancer originates from the uncontrolled growth and division of abnormal cells. Normal cells in the body grow, divide, and die in a regulated manner. However, when genetic mutations or alterations occur, these cells can evade normal growth controls, leading to the formation of a tumor.
 
-### The origins of cancer can be traced to various factors:
+###  The origins of cancer can be traced to various factors:
 
 1. #### *Genetic Mutations:
    * Changes in the DNA sequence can be inherited or acquired over time due to exposure to environmental factors like radiation, tobacco smoke, or certain chemicals.
