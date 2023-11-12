@@ -1,5 +1,6 @@
 # cancer mistery
-<src="https://www.interaliamag.org/wp-content/uploads/2021/11/2_Lung-tumour-image-1.png" alt="ENIGMA" , " style="float: right;">
+<img src="https://blog.aacr.org/wp-content/uploads/2015/06/EGFR-300x225.png" alt="EGNIMA" width="400" style="float: right;">
+
 
 
 
