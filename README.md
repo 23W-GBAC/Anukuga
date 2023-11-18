@@ -44,7 +44,7 @@ The field of cancer research is dynamic, with many unanswered questions, unexpla
 ## 3"The Dark Side of Cancer: Unraveling its Secrets"
 Cancer, a complex group of diseases, involves abnormal cell growth with various underlying causes. Unraveling its secrets involves understanding genetic mutations, environmental factors, and the intricate interplay of cellular processes. Research aims to decipher these complexities, paving the way for targeted therapies and early detection methods. However, the dark side lies in the challenges of treatment resistance, metastasis, and the profound impact on patients and their families. Ongoing scientific efforts strive to illuminate these aspects and develop innovative strategies to combat the multifaceted nature of cancer.
 
-## "The Elusive Cure: Searching for Answers in the Cancer Mystery" [click here] (https://video.search.yahoo.com/search/video;_ylt=AwrFNTieMlNlZiYKmipXNyoA;_ylu=Y29sbwNiZjEEcG9zAzEEdnRpZAMEc2VjA3BpdnM-?p=The+Elusive+Cure%3A+Searching+for+Answers+in+the+Cancer+Mystery&fr2=piv-web&type=E210US91215G0&fr=mcafee#id=9&vid=e96a4c14dd5f74f7897d25a9a485e040&action=view)
+## "The Elusive Cure: Searching for Answers in the Cancer Mystery" [click here](https://www.youtube.com/watch?v=66lh85Y-j6o)
 
 "Conspiracy Theories and Myths Surrounding Cancer"
 "Baffling Cases and Unexplained Remissions in Cancer"
