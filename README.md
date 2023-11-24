@@ -1,4 +1,2 @@
-[Home](post 1)
-[About](about.md)
-[Contact](contact.md)
+[![Click Here](blog_gif/gif_meme_face.gif)](blog_post_one)
 
