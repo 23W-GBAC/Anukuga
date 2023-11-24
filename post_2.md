@@ -1,5 +1,6 @@
 ---
 layout: post 
+title: cancer_mystery
 ---
 # welcome to cancer_mystery
 
