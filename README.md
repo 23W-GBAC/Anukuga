@@ -25,53 +25,35 @@ Investigate the role of genetic mutations, environmental factors, and lifestyle 
 
 Understanding the origins of cancer is crucial for prevention, early detection, and developing targeted therapies. Ongoing research aims to uncover the specific genetic and environmental factors that contribute to different types of cancer.
 
-
-### Cancer Metastasis:
-
+#### Cancer Metastasis:
 ![OIP](https://github.com/23W-GBAC/Anukuga/assets/74722296/059e858a-de55-4c27-933f-1ee24ea8f4d8){:  .right}
 
 Examine the mysteries surrounding the metastatic spread of cancer cells.
 Investigate the factors that contribute to the ability of cancer cells to migrate to distant parts of the body.
 
-### Cancer Immunotherapy:
+#### Cancer Immunotherapy:
 ![OIP](https://github.com/23W-GBAC/Anukuga/assets/74722296/3bf88302-dec1-490c-8704-0c0ab784c767){:  .right}
 
 Explore the mystery of why some patients respond exceptionally well to immunotherapy while others do not.
 Investigate the complex interactions between the immune system and cancer cells.
 
-### Cancer Stem Cells:
+#### Cancer Stem Cells:
 
 Examine the role of cancer stem cells in tumor initiation, progression, and recurrence.
 Explore the mystery of how these cells evade traditional cancer treatments.
 
-### Liquid Biopsies:
-![download](https://github.com/23W-GBAC/Anukuga/assets/74722296/bc53ea4b-f635-4540-8603-a41eb896ce4e){:  .right}
-
-Investigate the emerging field of liquid biopsies and their potential in early cancer detection.
-Explore the challenges and mysteries associated with liquid biopsy technology.
-
-### Epigenetics and Cancer:
-
-Explore how epigenetic modifications contribute to the development and progression of cancer.
-Investigate the mystery of how environmental factors can influence epigenetic changes related to cancer.
-
-### Cancer and the Microbiome:
-
-Examine the relationship between the microbiome (microorganisms in the body) and cancer.
-Explore the mysteries surrounding how the microbiome may influence cancer development and response to treatment.
-
-### Cancer Clusters:
+#### Cancer Clusters:
 ![download](https://github.com/23W-GBAC/Anukuga/assets/74722296/302c7b8f-40ab-4626-b92a-8d70ae03be2c)
 
 Investigate the occurrence of cancer clusters in specific geographic areas and explore potential environmental or genetic factors contributing to these clusters.
 
-### Rare Cancers:
+#### Rare Cancers:
 ![OIP](https://github.com/23W-GBAC/Anukuga/assets/74722296/aa493416-a552-480d-9fc5-bc208440139d)
 
 Explore the mysteries surrounding rare and less-studied types of cancers.
 Investigate the challenges in diagnosing and treating rare cancers.
 
-### Cancer and Aging:
+#### Cancer and Aging:
 
 Examine the relationship between aging and the increased incidence of cancer.
 Explore the mysteries surrounding why cancer becomes more prevalent as individuals age.
@@ -86,9 +68,10 @@ When exploring any of these topics, it's essential to consider the latest resear
    * The immune system and cancer interact in a complex way. Surprising progress in targeting and fighting cancer has been made possible by recent advances in immunotherapy.
 
 3. ### Biopsies in liquid:
+4. ![download](https://github.com/23W-GBAC/Anukuga/assets/74722296/bc53ea4b-f635-4540-8603-a41eb896ce4e){:  .right}
    * It was unexpected to learn that liquid biopsies may be used to detect genetic changes linked to cancer with a straightforward blood test. This non-invasive method has the potential to completely change how cancer is detected and tracked.
   
-  4. ### Epigenetics:
+  5. ### Epigenetics:
    * Research on the role of epigenetic modifications in cancer has proven quite interesting. Without changing the DNA sequence, epigenetic modifications affect how genes are expressed, and being aware of these changes opens up new possibilities for therapeutic interventions.
 
 5. ### *The Microenvironment of Cancer:
