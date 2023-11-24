@@ -1,12 +1,9 @@
 
-
 ---
-layout: "post"
-title: "cancer mystery"
+layout: post
+title: cancer mystery
 ---
 
-
-# cancer mistery
 <img src="https://blog.aacr.org/wp-content/uploads/2015/06/EGFR-300x225.png" alt="EGNIMA" width="400" style="float: right;">
 
 ## 1"The Origins of Cancer: Tracing the Unknown"
