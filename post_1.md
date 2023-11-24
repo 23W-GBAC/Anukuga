@@ -1,6 +1,6 @@
 ---
 layout: post
-title Genetically Modified Organisms (GMOs):
+title: Genetically Modified Organisms (GMOs):
 ---
 
 Discuss the benefits and risks of genetically modified crops and organisms. Argue for or against the widespread use of GMOs in agriculture---
