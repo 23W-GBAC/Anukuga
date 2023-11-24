@@ -27,25 +27,25 @@ Understanding the origins of cancer is crucial for prevention, early detection, 
 
 
 ### Cancer Metastasis:
-![OIP](https://github.com/23W-GBAC/Anukuga/assets/74722296/059e858a-de55-4c27-933f-1ee24ea8f4d8)
+
+![OIP](https://github.com/23W-GBAC/Anukuga/assets/74722296/059e858a-de55-4c27-933f-1ee24ea8f4d8){:  .right}
 
 Examine the mysteries surrounding the metastatic spread of cancer cells.
 Investigate the factors that contribute to the ability of cancer cells to migrate to distant parts of the body.
 
 ### Cancer Immunotherapy:
-![OIP](https://github.com/23W-GBAC/Anukuga/assets/74722296/3bf88302-dec1-490c-8704-0c0ab784c767)
+![OIP](https://github.com/23W-GBAC/Anukuga/assets/74722296/3bf88302-dec1-490c-8704-0c0ab784c767){:  .right}
 
 Explore the mystery of why some patients respond exceptionally well to immunotherapy while others do not.
 Investigate the complex interactions between the immune system and cancer cells.
 
 ### Cancer Stem Cells:
-<img src="
-  https://www.bing.com/images/search?view=detailV2&ccid=8TxR%2bg0X&id=0EAD18EA0E9B59AEDE64495D86E712256A37B76E&thid=OIP.8TxR-g0Xje9XqrhHWMqg_gHaFj&mediaurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.f13c51fa0d178def57aab84758caa0fe%3frik%3dbrc3aiUS54ZdSQ%26riu%3dhttp%253a%252f%252fi.ytimg.com%252fvi%252fWXTsxPPcTEs%252fhqdefault.jpg%26ehk%3djFbHGtAZlDh%252bfqLEUli%252bNNY9iGmYruhINuXuuINZwc0%253d%26risl%3d%26pid%3dImgRaw%26r%3d0&exph=360&expw=480&q=cancer+metastasis+animated&simid=608049730569189902&FORM=IRPRST&ck=2CA0CF580518CE71CE4540368D638740&selectedIndex=29" alt="stem cell" />
+
 Examine the role of cancer stem cells in tumor initiation, progression, and recurrence.
 Explore the mystery of how these cells evade traditional cancer treatments.
 
 ### Liquid Biopsies:
-![download](https://github.com/23W-GBAC/Anukuga/assets/74722296/bc53ea4b-f635-4540-8603-a41eb896ce4e)
+![download](https://github.com/23W-GBAC/Anukuga/assets/74722296/bc53ea4b-f635-4540-8603-a41eb896ce4e){:  .right}
 
 Investigate the emerging field of liquid biopsies and their potential in early cancer detection.
 Explore the challenges and mysteries associated with liquid biopsy technology.
