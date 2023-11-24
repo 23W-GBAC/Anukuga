@@ -1,9 +1,8 @@
 
 
 ---
-layout: post
+layout: "post"
 title: "cancer mystery"
-
 ---
 
 
