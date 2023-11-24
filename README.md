@@ -1,5 +1,7 @@
 # welcome to my_blog
-i have Choosen topics related to health which can be highly beneficial as Health is a universal concern that impacts everyone, regardless of age, gender, or background. Writing about health ensures relevance to a broad audience, contributing to knowledge about maintaining a healthy lifestyle, preventing diseases, and managing existing health conditions. Health-related content educates readers, empowers them to make informed decisions, and raises awareness about various health issues. Covering trending health topics attracts an engaged audience, fosters a sense of community, and positions the author as an authority in their niche. Health is an evergreen topic, attracting advertisers and sponsors, opening up additional revenue streams for the blog.
+[](![th](https://github.com/23W-GBAC/Anukuga/assets/74722296/0e4c6daf-3c1d-4c70-b278-b2dcf4676366)<em><strong>
+
+i have Choosen topics related to health which can be highly beneficial as Health is a universal concern that impacts everyone, regardless of age, gender, or background. Writing about health ensures relevance to a broad audience, contributing to knowledge about maintaining a healthy lifestyle, preventing diseases, and managing existing health conditions. Health-related content educates readers, empowers them to make informed decisions, and raises awareness about various health issues. Covering trending health topics attracts an engaged audience, fosters a sense of community, and positions the author as an authority in their niche. Health is an evergreen topic, attracting advertisers and sponsors, opening up additional revenue streams for the blog. </em></strong>
 
 
 # CANCER_MYSTRY
