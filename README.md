@@ -6,9 +6,11 @@
 # CANCER_MYSTRY 
 The "cancer mystery" refers to the complex and multifaceted nature of cancer that has yet to be fully understood. Despite significant advancements in research and medical science, many aspects of cancer remain enigmatic and elusive. The term encompasses a range of unresolved questions and challenges that researchers, clinicians.
  
- click the image [![Click Here](https://github.com/23W-GBAC/Anukuga/assets/74722296/9b3b5ab6-f278-4759-abf9-f364af2ed84c)](post_2)
+ click the image
+ [![Click Here](https://github.com/23W-GBAC/Anukuga/assets/74722296/9b3b5ab6-f278-4759-abf9-f364af2ed84c)](post_2)
 
 
 # GMO-GENETICALLY MODIFIED ORGANISMS
- click the image [![Click Here](https://github.com/23W-GBAC/Anukuga/assets/74722296/eb3a37aa-6569-451d-81ce-6402b6662859)](post_1)
+ click the image
+ [![Click Here](https://github.com/23W-GBAC/Anukuga/assets/74722296/eb3a37aa-6569-451d-81ce-6402b6662859)](post_1)
 
