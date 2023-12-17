@@ -1,5 +1,5 @@
 # Chronic Disease Management: 
-https://www.alamy.com/chronic-disease-management-concept-icon-image382629091.html
+(https://www.alamy.com/chronic-disease-management-concept-icon-image382629091.html)
 ## Tips for Managing Chronic Illnesses in Day-to-Day Living
 1. Being Aware of Your Situation:
 The first step towards living well with a chronic illness is education. Learn as much as you can about the particulars of your illness. This entails being aware of the signs, causes, and possible outcomes. Seek reliable sources of information and routinely confer with medical professionals to stay up to date on the most recent research and treatment options.
