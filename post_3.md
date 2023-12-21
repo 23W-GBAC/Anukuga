@@ -1,5 +1,6 @@
 # Chronic Disease Management: 
-(https://www.alamy.com/chronic-disease-management-concept-icon-image382629091.html)
+![Alt Text](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.goreymed.ie%2Fsites%2Fwww.goreymed.ie%2Ffiles%2Finline-images%2FChronic%2520Disease%2520Management%2520.jpeg&tbnid=1LxOsglifsvspM&vet=12ahUKEwj6-NzKraGDAxU9yAIHHY5pA7YQMygGegQIARB_..i&imgrefurl=https%3A%2F%2Fwww.goreymed.ie%2Fchronic-disease-management&docid=-FOOR4AK30koVM&w=1400&h=658&q=Chronic%20Disease%20Management&ved=2ahUKEwj6-NzKraGDAxU9yAIHHY5pA7YQMygGegQIARB_)
+
 ## Tips for Managing Chronic Illnesses in Day-to-Day Living
 1. Being Aware of Your Situation:
 The first step towards living well with a chronic illness is education. Learn as much as you can about the particulars of your illness. This entails being aware of the signs, causes, and possible outcomes. Seek reliable sources of information and routinely confer with medical professionals to stay up to date on the most recent research and treatment options.
