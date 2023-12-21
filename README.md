@@ -17,4 +17,4 @@ The "cancer mystery" refers to the complex and multifaceted nature of cancer tha
 
 # Chronic Disease Management
 click the image
-[¡[click here](https://www.alamy.com/chronic-disease-management-concept-icon-image382629091.html)](post_2).
+[![click here](https://www.alamy.com/chronic-disease-management-concept-icon-image382629091.html)](post_3)
