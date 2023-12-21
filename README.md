@@ -9,12 +9,15 @@ The "cancer mystery" refers to the complex and multifaceted nature of cancer tha
  
       
  [![Click Here](https://github.com/23W-GBAC/Anukuga/assets/74722296/9b3b5ab6-f278-4759-abf9-f364af2ed84c)](post_2)
+ click the image
 
 
 # GMO-GENETICALLY MODIFIED ORGANISMS
       
- click the image [![Click Here](https://github.com/23W-GBAC/Anukuga/assets/74722296/eb3a37aa-6569-451d-81ce-6402b6662859)](post_1)
+ [![Click Here](https://github.com/23W-GBAC/Anukuga/assets/74722296/eb3a37aa-6569-451d-81ce-6402b6662859)](post_1)
+ click the image
 
 # Chronic Disease Management
-        click the image
+      
 [![images](https://github.com/23W-GBAC/Anukuga/assets/74722296/78c5338f-27f9-416b-b096-35a60eeead6d)](post_3)
+click the image
