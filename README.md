@@ -6,13 +6,13 @@
                                                                                                                                                                                                                                                                                                                                          
 # Decoding the Cancer Mystery
 The "cancer mystery" refers to the complex and multifaceted nature of cancer that has yet to be fully understood. Despite significant advancements in research and medical science, many aspects of cancer remain enigmatic and elusive. The term encompasses a range of unresolved questions and challenges that researchers, clinicians.
- [![Click Here](https://github.com/23W-GBAC/Anukuga/assets/74722296/9b3b5ab6-f278-4759-abf9-f364af2ed84c)](post_2.md)
+[![Click Here](https://github.com/23W-GBAC/Anukuga/assets/74722296/9b3b5ab6-f278-4759-abf9-f364af2ed84c)](post_2.md)
  click the image
 
 
 # Unlocking Wellness: Embracing the Latest Trends in Fitness and Health
 "Unlocking Wellness: Embracing the Latest Trends in Fitness and Health" is a captivating exploration of the dynamic landscape of health and well-being. This blog takes readers on a journey through cutting-edge workout routines, revolutionary wellness apps, and innovative health products that are reshaping the way we approach fitness. From unconventional workout trends and groundbreaking wellness apps to wearable tech and sustainable fitness gear, the content provides insights into the latest advancements backed by examples and research data. The blog concludes with an invitation to embrace these trends, ushering readers into a healthier and more vibrant future.
- [![Click Here](https://github.com/23W-GBAC/Anukuga/assets/74722296/d9772bf5-18d9-48e1-bc9f-3bd1bd91428b)](post_1.md)
+[![Click Here](https://github.com/23W-GBAC/Anukuga/assets/74722296/d9772bf5-18d9-48e1-bc9f-3bd1bd91428b)](post_1.md)
  click the image
 
 # Chronic Disease Management
