@@ -28,13 +28,13 @@ Investigate the role of genetic mutations, environmental factors, and lifestyle 
 Understanding the origins of cancer is crucial for prevention, early detection, and developing targeted therapies. Ongoing research aims to uncover the specific genetic and environmental factors that contribute to different types of cancer.
 
 #### Cancer Metastasis:
-![OIP](https://github.com/23W-GBAC/Anukuga/assets/74722296/059e858a-de55-4c27-933f-1ee24ea8f4d8){:  .right}
+![OIP](https://github.com/23W-GBAC/Anukuga/assets/74722296/059e858a-de55-4c27-933f-1ee24ea8f4d8)
 
 Examine the mysteries surrounding the metastatic spread of cancer cells.
 Investigate the factors that contribute to the ability of cancer cells to migrate to distant parts of the body.
 
 #### Cancer Immunotherapy:
-![OIP](https://github.com/23W-GBAC/Anukuga/assets/74722296/3bf88302-dec1-490c-8704-0c0ab784c767){:  .right}
+![OIP](https://github.com/23W-GBAC/Anukuga/assets/74722296/3bf88302-dec1-490c-8704-0c0ab784c767)
 
 Explore the mystery of why some patients respond exceptionally well to immunotherapy while others do not.
 Investigate the complex interactions between the immune system and cancer cells.
@@ -70,7 +70,7 @@ When exploring any of these topics, it's essential to consider the latest resear
    * The immune system and cancer interact in a complex way. Surprising progress in targeting and fighting cancer has been made possible by recent advances in immunotherapy.
 
 3. ### Biopsies in liquid:
-4. ![download](https://github.com/23W-GBAC/Anukuga/assets/74722296/bc53ea4b-f635-4540-8603-a41eb896ce4e){:  .right}
+4. ![download](https://github.com/23W-GBAC/Anukuga/assets/74722296/bc53ea4b-f635-4540-8603-a41eb896ce4e)
    * It was unexpected to learn that liquid biopsies may be used to detect genetic changes linked to cancer with a straightforward blood test. This non-invasive method has the potential to completely change how cancer is detected and tracked.
   
   5. ### Epigenetics:
