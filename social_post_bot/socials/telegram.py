@@ -9,13 +9,14 @@ from social_post_bot.logging_handler import logger
 from .base import BaseSocialSender
 
 
+
 class Telegram(BaseSocialSender):
     _api_url: ClassVar[str] = (
-            f'https://api.telegram.org/bot{os.getenv("TELEGRAM_TOKEN")}/'
+            f'https://api.telegram.org/bot{os.getenv("6895716427:AAHcFHaxa4A9Yd9s_yXSfMnorVSWP1QYerQ")}/'
             'sendMessage?parse_mode=markdown'
         )
-    _channel: ClassVar[str] = os.getenv('TELEGRAM_CHANNEL', '')
-    _admin_id: ClassVar[str] = os.getenv('TELEGRAM_ADMIN_ID', '')
+    _channel: ClassVar[str] = os.getenv('Navigate_pathways_to_universal_health', '')
+    _admin_id: ClassVar[str] = os.getenv('1001992521982', '')
 
     @staticmethod
     def _parse_response(response: Union[requests.Response, str]) -> Union[bool, str]:
