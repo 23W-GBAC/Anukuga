@@ -25,7 +25,6 @@ The "cancer mystery" refers to the complex and multifaceted nature of cancer tha
 
 
 # Wholesome Bites: A Culinary Journey to Health with Delicious Recipes and Smart Cooking Tips
+Embark on a delectable journey with 'Wholesome Bites,' where culinary excellence meets health-conscious living. This curated collection offers a fusion of delicious recipes and intelligent cooking tips, inviting you to savor the symphony of flavors while prioritizing your well-being. Join us in the art of purposeful cooking, where each bite is a step towards a healthier and more flavorful lifestyle.
 
 [link_to_post_4_file](post_4.md)
-
-"Embark on a delectable journey with 'Wholesome Bites,' where culinary excellence meets health-conscious living. This curated collection offers a fusion of delicious recipes and intelligent cooking tips, inviting you to savor the symphony of flavors while prioritizing your well-being. Join us in the art of purposeful cooking, where each bite is a step towards a healthier and more flavorful lifestyle."
