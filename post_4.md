@@ -16,12 +16,21 @@ Start your mornings with a burst of energy by indulging in a nutrient-packed bre
 Take your snacking experience to new heights with a refreshing mango avocado salsa paired with homemade baked pita chips. Picture this – ripe mango chunks, creamy avocado, diced tomatoes, red onion, and cilantro coming together in a medley of flavors. Serve it with crispy, baked pita chips for a guilt-free snack. Drizzle a touch of olive oil for an extra layer of richness, making it a wholesome and satisfying treat.
 
 ## Quinoa and Vegetable Stir-Fry:
+
+![download (2)](https://github.com/23W-GBAC/Anukuga/assets/74722296/4bf18316-7cfc-48f1-8617-5502415af3a1)
+
 Explore the versatility of quinoa with a vibrant and nutrient-rich vegetable stir-fry. Imagine colorful bell peppers, broccoli, carrots, and snap peas tossed together with pre-cooked quinoa. For a protein boost, consider adding tofu cubes or lean chicken strips. Drizzle a soy-ginger sauce for that perfect umami kick. Pro tip: Pre-cook a batch of quinoa during your weekly meal prep for quick and easy stir-fry assembly.
 
 ## Herb-Infused Grilled Salmon:
+
+![download (3)](https://github.com/23W-GBAC/Anukuga/assets/74722296/e0fc2b9a-839f-4e08-8677-db9b6c9b2f45)
+
 Indulge your palate with a succulent herb-infused grilled salmon. Marinate the salmon in a delightful blend of fresh herbs, lemon juice, and garlic before grilling to perfection. This dish not only offers a burst of flavor but also provides essential omega-3 fatty acids for heart health. Consider using a cedar plank during grilling for an added smoky aroma and depth of flavor.
 
 ## Spaghetti Squash Primavera:
+
+![download (4)](https://github.com/23W-GBAC/Anukuga/assets/74722296/2d457b99-0fe7-4bb0-86c4-6e2dd61bb67f)
+
 Revamp your pasta routine with a nutritious twist – spaghetti squash primavera. Roast the spaghetti squash for a caramelized flavor and toss it with a homemade tomato sauce, an array of colorful vegetables, and a sprinkle of Parmesan cheese. This light and satisfying dish is a low-carb alternative to traditional pasta, ensuring a guilt-free indulgence.
 
 # Cooking Tips:
