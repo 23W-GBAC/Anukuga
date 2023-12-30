@@ -3,11 +3,16 @@ Title: "Wholesome Bites: A Culinary Journey to Health with Delicious Recipes and
 # Introduction:
 Embark on a delightful culinary adventure with "Wholesome Bites," where we seamlessly blend flavors and nutrition. This collection of nutritious recipes and smart cooking tips promises to tantalize your taste buds while contributing to a healthier lifestyle. Let's delve into the art of purposeful cooking!
 
-## Power-Packed Breakfast Smoothie:![download (1)](https://github.com/23W-GBAC/Anukuga/assets/74722296/a9596098-6eaf-4942-9d70-09e740c12103)
+## Power-Packed Breakfast Smoothie:
+
+![download (1)](https://github.com/23W-GBAC/Anukuga/assets/74722296/a9596098-6eaf-4942-9d70-09e740c12103)
 
 Start your mornings with a burst of energy by indulging in a nutrient-packed breakfast smoothie. For instance, consider blending a handful of spinach, a mix of frozen berries, a generous dollop of Greek yogurt, and a hint of honey. To elevate the protein content, add a scoop of your favorite protein powder. This delightful concoction not only tastes heavenly but also provides a nutritious kick to kickstart your day.
 
 ## Mango Avocado Salsa with Baked Pita Chips:
+
+![Mango-Avocado-Salsa-Close-up-of-a-bowl-with-mango-salsa](https://github.com/23W-GBAC/Anukuga/assets/74722296/272d6d3d-5a4f-4965-a523-87019542af07)
+
 Take your snacking experience to new heights with a refreshing mango avocado salsa paired with homemade baked pita chips. Picture this – ripe mango chunks, creamy avocado, diced tomatoes, red onion, and cilantro coming together in a medley of flavors. Serve it with crispy, baked pita chips for a guilt-free snack. Drizzle a touch of olive oil for an extra layer of richness, making it a wholesome and satisfying treat.
 
 ## Quinoa and Vegetable Stir-Fry:
