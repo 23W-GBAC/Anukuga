@@ -1,0 +1,10 @@
+# Credentials #
+####################
+.env
+
+# log files
+*.log
+
+# Binary python files#
+###################
+*.py[c|o|d]
