@@ -30,4 +30,4 @@ Embark on a delectable journey with 'Wholesome Bites,' where culinary excellence
 [link_to_post_4_file](post_4.md)
 
 # My automation 
-[link_to_Local-Health-News](Local-Health-News)
+[link to Local-Health-News](Local-Health-News)
