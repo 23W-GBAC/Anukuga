@@ -30,4 +30,4 @@ Embark on a delectable journey with 'Wholesome Bites,' where culinary excellence
 [link_to_post_4_file](post_4.md)
 
 # My automation 
-[link to app.py](app.py)
+[link to templates](templates)
