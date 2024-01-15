@@ -57,3 +57,5 @@ Adopt the balanced plate approach for a well-rounded and nutritious meal. Combin
 
 ## Conclusion:
 With "Wholesome Bites," your culinary journey becomes a celebration of both health and taste. These recipes, coupled with smart cooking tips, not only make the pursuit of a healthier lifestyle enjoyable but also achievable. Transform your kitchen into a hub of wellness, one flavorful bite at a time. Cheers to good health and great taste!
+
+**[back to homepage](https://23w-gbac.github.io/Anukuga/)**

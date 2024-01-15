@@ -30,7 +30,7 @@ Embark on a delectable journey with 'Wholesome Bites,' where culinary excellence
 
 The Local Health News app is a Flask web application designed to provide users with the latest health news based on their geographical location. Leveraging the IP address of the user, the app retrieves information such as time zone, country code, and region. It then fetches health news specific to the user's country using the News API.
 
-[Link to Local Health News page](templates/index.html)
+[Link to Local Health News page](Local-Health-News/templates/index.html)
 
 **Please Note:**
 

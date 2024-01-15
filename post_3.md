@@ -1,4 +1,4 @@
-# Chronic Disease Management: 
+# Chronic Disease Management
 
 <div style="text-align: center;">
    <img src="https://media.nutrition.org/wp-content/uploads/2022/08/CHRONIC-DISEASES-Healthcare-concept.jpg" alt="image" width="50%">
@@ -71,3 +71,5 @@ Help your loved one prioritize self-care. Encourage them to participate in enjoy
 **5. Respect Independence:**
 
 Respect the desire for independence of your loved one. Collaborate on care decisions, incorporating them in the planning process. Recognize and involve them in talks about their treatment and everyday routines.
+
+**[back to homepage](https://23w-gbac.github.io/Anukuga/)**

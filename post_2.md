@@ -1,4 +1,4 @@
-# Decoding the cancer_mystery
+# Decoding the Cancer Mystery
 
 <div style="text-align: center;">
    <img src="https://blog.aacr.org/wp-content/uploads/2015/06/EGFR-300x225.png" alt="image" width="50%">
