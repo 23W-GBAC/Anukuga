@@ -1,57 +1,54 @@
+# Local Health News App
 
-# Automating My Blog and Social Media Posts
-## Introduction
-I've developed a Python-based automation tool to simplify the process of posting blog content to various social media platforms. The current version posts to my Twitter account, Telegram channel, Medium, and Facebook page. Additionally, the tool notifies me on Telegram about each post. I built this application using Python 3.7.5 and Ubuntu 18.04.3 LTS.
+## Overview
 
-## Getting Started
-I started by cloning the repository and creating a .env file to store secrets. If I don't want to use specific social media platforms, I simply set the corresponding environment variables to False in the .env file.
+The Local Health News app is a Flask web application designed to provide users with the latest health news based on their geographical location. Leveraging the IP address of the user, the app retrieves information such as time zone, country code, and region. It then fetches health news specific to the user's country using the News API.
 
-### Telegram
-For Telegram integration, I created a channel, used Bot Father to generate a bot, obtained the access token, and noted down the chat_id for admin notifications. I then added these details to the .env file:
+## Features
 
+### 1. Personalized Greeting and Time Information
 
-#### TELEGRAM_TOKEN="my_token"
-#### TELEGRAM_USERNAME="username_for_bot"
-#### TELEGRAM_CHANNEL="username_for_channel"
-#### TELEGRAM_ADMIN_ID="chat_id"
+Upon accessing the app, users are greeted with a personalized message based on the time of day (Good Morning, Good Afternoon, or Good Evening). The app also displays the current time and date in the user's local time zone.
 
-### Facebook (Work in Progress)
-For Facebook integration, I created a page, an application, acquired permissions, generated an access token, and noted down the page id. I added these details to the .env file:
+### 2. Location Information
 
+The app retrieves the user's IP address, region name, and country code using the IPinfo API. Additionally, a tooltip provides information about the user's approximate location based on their public IP address.
 
-#### FACEBOOK_ACCESS_TOKEN="my_access_token"
-#### FACEBOOK_PAGE_ID="my_page_id"
-Note: Before going live on Facebook, I'm in the review stage, and a privacy policy is required. I might need to go through App Review before being allowed to publish posts.
+### 3. Health News Feed
 
-## Installation and Setup
-I set up a virtual environment, activated it, cloned the repository, and installed the necessary requirements. Additionally, I created a MySQL database to store posted links and configured the RSS feed URL in the .env file.
+The main feature of the app is the display of the latest health news relevant to the user's country. The app uses the News API to fetch top health headlines for the specified country. Each news article includes a title, publication date, description, and source information.
 
+### 4. Responsive Design
 
-#### DB_NAME="name_of_the_database"
-#### DB_HOST="host"
-#### DB_USER="user"
-#### DB_PASSWORD="password"
-#### DB_TABLE="name_of_the_table"
-#### DB_COLUMN="name_of_the_column_that_will_store_links"
-#### CUSTOM_TXT="THE TEXT THAT WILL BE PREFIXED BEFORE EVERY POST"
-#### FEED_URL="MY RSS FEED URL"
-I can add entries to the database using:
+The app utilizes a responsive design, making it accessible and user-friendly across various devices and screen sizes.
 
+### 5. Footer Information
 
-####python -m social_bost_pot.feeds.processor
-##Testing
-To test the system, I added a post to my website and ran:
+The footer includes a copyright notice and attribution to the app's creator with a link to their GitHub profile.
 
+## Usage
 
-#### python -m social_post_bot
-If successful, I receive a notification on Telegram.
+To use the Local Health News app, follow these steps:
 
-## Scheduling
-I scheduled a cron job to run the script python -m social_post_bot based on my posting requirements.
+1. Clone the GitHub repository to your local machine.
+2. Install the required dependencies using `pip install -r requirements.txt`.
+3. Run the Flask app using `python app.py`.
+4. Access the app in your web browser at `http://127.0.0.1:5000/`.
 
+## Technologies Used
 
+- **Flask**: A lightweight web application framework for Python.
+- **HTML/CSS**: Used for structuring and styling the web pages.
+- **JavaScript**: Notably used for the tooltip feature.
+- **News API**: Provides access to real-time and historical news data.
 
+## Dependencies
 
+The app relies on the following external services and APIs:
 
+- **IPinfo API**: Retrieves IP address and location information.
+- **News API**: Fetches health news based on the user's country.
 
+## Author & Acknowledgements
 
+The Local Health News app was created by [Anukuga](https://github.com/Anukuga). Special thanks to the developers of IPinfo and News API for providing the necessary data for this application.
