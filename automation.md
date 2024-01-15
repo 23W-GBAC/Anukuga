@@ -52,3 +52,5 @@ The app relies on the following external services and APIs:
 ## Author & Acknowledgements
 
 The Local Health News app was created by [Anukuga](https://github.com/Anukuga). Special thanks to the developers of IPinfo and News API for providing the necessary data for this application.
+
+**[back to homepage](https://23w-gbac.github.io/Anukuga/)**
