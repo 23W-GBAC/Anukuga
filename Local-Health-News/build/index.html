@@ -1,0 +1,322 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Local Health News</title>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Roboto', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+
+        header {
+            background: #005a87;
+            color: #fff;
+            padding-top: 30px;
+            min-height: 70px;
+            border-bottom: #00b4d8 3px solid;
+        }
+
+        header a {
+            color: #fff;
+            text-decoration: none;
+            text-transform: uppercase;
+            font-size: 16px;
+        }
+
+        header ul {
+            padding: 0;
+            list-style: none;
+            text-align: center;
+        }
+
+        header li {
+            display: inline;
+            margin: 0 20px;
+        }
+
+        header #branding {
+            float: left;
+        }
+
+        header #branding h1 {
+            margin: 0;
+        }
+
+        header nav {
+            float: right;
+            margin-top: 10px;
+        }
+
+        header .highlight, header .current a {
+            color: #e9f1f7;
+            font-weight: bold;
+        }
+
+        header a:hover {
+            color: #ffffff;
+            font-weight: bold;
+        }
+
+        h2 a {
+            text-decoration: none;
+            color: #007bff;
+        }
+
+        h2 a:hover {
+            color: #0056b3;
+        }
+
+        /* Information Icon Tooltip container */
+        .tooltip {
+            position: relative;
+            display: inline-block;
+        }
+
+        .tooltip .tooltiptext {
+            visibility: hidden;
+            width: 220px;
+            background-color: #005a87;
+            color: #fff;
+            font-size: 12px;
+            text-align: center;
+            border-radius: 6px;
+            padding: 5px;
+            position: absolute;
+            z-index: 1;
+            bottom: 150%;
+            left: 50%;
+            margin-left: -110px;
+            opacity: 0;
+            transition: opacity 0.3s;
+        }
+
+        .tooltip:hover .tooltiptext {
+            visibility: visible;
+            opacity: 1;
+        }
+
+        /* News Articles List */
+        ul.articles {
+            padding: 0;
+            list-style: none;
+        }
+
+        ul.articles li {
+            background: #fff;
+            padding: 10px;
+            margin-bottom: 10px;
+            border-bottom: #eee 1px solid;
+        }
+
+        ul.articles li:last-child {
+            border-bottom: none;
+        }
+
+        ul.articles h2 {
+            margin: 0;
+            padding-bottom: 10px;
+            color: #333;
+        }
+
+        ul.articles p {
+            margin: 0;
+            color: #666;
+        }
+
+        /* Footer */
+        footer {
+            padding: 20px;
+            margin-top: 20px;
+            color: #ffffff;
+            background-color: #005a87;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div id="branding">
+                <h1><span class="highlight">Local</span> Health News</h1>
+            </div>
+            <nav>
+                <ul>
+                    <li class="current"><a href="https://23w-gbac.github.io/Anukuga/">Home</a></li>
+                    <li><a href="https://23w-gbac.github.io/Anukuga/automation.html" target="_blank" rel="noopener noreferrer">About</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <div class="container">
+        <h1>Good Morning !</h1>
+        <em>Last refreshed on 21.01.2024 at 00:46:19 Europe/Berlin</em>
+        <h2>Latest health news in Germany:
+            <span class="tooltip">&#9432
+                <span class="tooltiptext">Your location based on your Public IP Address <br>(84.163.186.78 - Bavaria)</span>
+            </span>
+        </h2>
+        
+            <ul class="articles">
+                
+                    <li>
+                        <h2><a href="https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LmZyLmRlL3dpc3Nlbi9icmVpdGJhbmQtdmlyb3N0YXRpa2EtcGFuZGVtaWUtZm9yc2NodW5nLW1lZGlrYW1lbnRlLW1lZGl6aW4tOTI3ODYyMjMuaHRtbNIBAA?oc=5" target="_blank" rel="noopener noreferrer">Forschung auf der Suche nach Breitband-Virostatika - fr.de</a></h2>
+                        <p><strong>Published: </strong>19.01.2024 at 18:59:09</p>
+                        <p><strong>Description: </strong>None</p>
+                        <p><strong>Source: </strong>Google News — fr.de</p>
+                    </li>
+                
+                    <li>
+                        <h2><a href="https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LmZyLmRlL3dpc3Nlbi9yYXVjaGVuLXZlcmtsZWluZXJ0LWdlaGlybi1uZXJ2ZW56ZWxsZW4tc3R1ZGllLXJlZ2VsbWFlc3NpZ2VzLTkyNzgwMDk0Lmh0bWzSAQA?oc=5" target="_blank" rel="noopener noreferrer">Regelmäßiges Rauchen verkleinert das Gehirn – Nervenzellen gehen verloren - fr.de</a></h2>
+                        <p><strong>Published: </strong>19.01.2024 at 18:06:07</p>
+                        <p><strong>Description: </strong>None</p>
+                        <p><strong>Source: </strong>Google News — fr.de</p>
+                    </li>
+                
+                    <li>
+                        <h2><a href="https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3LnNhdDEuZGUvdGhlbWVuL2ZpdC1nZXN1bmQvbmV3cy9rb2VzdGxpY2hlLWdyYXBlZnJ1aXQtZGlhZXQtc28tdmllbC1wb3dlci1zdGVja3QtaW4tZGVyLWdlc3VuZGVuLWZydWNodC04Mjc5NNIBAA?oc=5" target="_blank" rel="noopener noreferrer">Köstliche Grapefruit-Diät: So viel Power steckt in der gesunden Frucht - SAT.1</a></h2>
+                        <p><strong>Published: </strong>19.01.2024 at 17:10:00</p>
+                        <p><strong>Description: </strong>None</p>
+                        <p><strong>Source: </strong>Google News — SAT.1</p>
+                    </li>
+                
+                    <li>
+                        <h2><a href="https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3LjI0dml0YS5kZS9wcmFldmVudGlvbi9lcm5hZWhydW5nLWltbXVuc3lzdGVtLWxlYmVuc21pdHRlbC12aXRhbWluZS1taW5lcmFsc3RvZmZlLW1pa3JvYmlvbS05Mjc4MjEzNS5odG1s0gEA?oc=5" target="_blank" rel="noopener noreferrer">Mit der richtigen Ernährung das Immunsystem stärken - 24vita.de</a></h2>
+                        <p><strong>Published: </strong>19.01.2024 at 16:30:00</p>
+                        <p><strong>Description: </strong>None</p>
+                        <p><strong>Source: </strong>Google News — 24vita.de</p>
+                    </li>
+                
+                    <li>
+                        <h2><a href="https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LnZpdGFsLmRlL2dlc3VuZGhlaXQvZXJrYWVsdHVuZy1ncmlwcGUvdHJvY2tlbmVuLWh1c3Rlbi1sb3N3ZXJkZW4tNS10aXBwcy1oYXVzbWl0dGVsLTk5MjcuaHRtbNIBbWh0dHBzOi8vd3d3LnZpdGFsLmRlL2dlc3VuZGhlaXQvZXJrYWVsdHVuZy1ncmlwcGUvdHJvY2tlbmVuLWh1c3Rlbi1sb3N3ZXJkZW4tNS10aXBwcy1oYXVzbWl0dGVsLTk5MjcuaHRtbD9hbXA?oc=5" target="_blank" rel="noopener noreferrer">Trockenen Husten loswerden: 5 Tipps &amp; Hausmittel - Vital</a></h2>
+                        <p><strong>Published: </strong>19.01.2024 at 16:13:49</p>
+                        <p><strong>Description: </strong>None</p>
+                        <p><strong>Source: </strong>Google News — Vital</p>
+                    </li>
+                
+                    <li>
+                        <h2><a href="https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vd3d3LmZpdGJvb2suZGUvZ2VzdW5kaGVpdC9tdWx0aXZpdGFtaW5wcmFlcGFyYXQtZ2VkYWVjaHRuaXN2ZXJsdXN00gEA?oc=5" target="_blank" rel="noopener noreferrer">Multivitaminpräparat soll laut Studie Gedächtnisverlust bremsen - FITBOOK</a></h2>
+                        <p><strong>Published: </strong>19.01.2024 at 15:28:00</p>
+                        <p><strong>Description: </strong>None</p>
+                        <p><strong>Source: </strong>Google News — FITBOOK</p>
+                    </li>
+                
+                    <li>
+                        <h2><a href="https://news.google.com/rss/articles/CBMihwFodHRwczovL3d3dy4yNHZpdGEuZGUvZ2VzdW5kaGVpdC9uYXNlLW5hc2VubmViZW5ob2VobGVuLWVudHp1ZW5kdW5nLXN5bXB0b21lLWFuemVpY2hlbi1zaW51c2l0aXRzLWVya2FlbHR1bmctc2NobnVwZmVuLXpyLTkyNzcyNzgwLmh0bWzSAQA?oc=5" target="_blank" rel="noopener noreferrer">Nasennebenhöhlen entzündet: 10 Symptome bei Sinusitis - 24vita.de</a></h2>
+                        <p><strong>Published: </strong>19.01.2024 at 15:20:48</p>
+                        <p><strong>Description: </strong>None</p>
+                        <p><strong>Source: </strong>Google News — 24vita.de</p>
+                    </li>
+                
+                    <li>
+                        <h2><a href="https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3LjI0dml0YS5kZS9nZXN1bmRoZWl0L2dlaGlybi1oZXJ6c3RpbGxzdGFuZC1oaXJud2VsbGVuLWVzdGxhbmQtdG9kLXN0ZXJiZW4tZmlsbS1sZWJlbi1lcmlubmVydW5nZW4tOTEzODc0MDIuaHRtbNIBAA?oc=5" target="_blank" rel="noopener noreferrer">Tod: Läuft zuvor der „Film des Lebens“ ab? Studie überrascht - 24vita.de</a></h2>
+                        <p><strong>Published: </strong>19.01.2024 at 15:15:55</p>
+                        <p><strong>Description: </strong>None</p>
+                        <p><strong>Source: </strong>Google News — 24vita.de</p>
+                    </li>
+                
+                    <li>
+                        <h2><a href="https://news.google.com/rss/articles/CBMiJWh0dHBzOi8vd2luZnV0dXJlLmRlL25ld3MsMTQwNzE2Lmh0bWzSAQA?oc=5" target="_blank" rel="noopener noreferrer">Schule: An schwachen Leistungen könnten auch Tablets Schuld sein - WinFuture</a></h2>
+                        <p><strong>Published: </strong>19.01.2024 at 15:10:00</p>
+                        <p><strong>Description: </strong>None</p>
+                        <p><strong>Source: </strong>Google News — WinFuture</p>
+                    </li>
+                
+                    <li>
+                        <h2><a href="https://news.google.com/rss/articles/CBMiigFodHRwczovL3d3dy5hdWdzYnVyZ2VyLWFsbGdlbWVpbmUuZGUvcGFub3JhbWEvd2llLXZpZWwtdml0YW1pbi1jLWJyYXVjaHQtZGVyLWtvZXJwZXItdW5kLXdhbm4tZXJob2VodC1zaWNoLWRlci10YWdlc2JlZGFyZi1pZDY5MTQzNTQxLmh0bWzSAQA?oc=5" target="_blank" rel="noopener noreferrer">Wie viel Vitamin C braucht der Körper und wann erhöht sich der Tagesbedarf? - Augsburger Allgemeine</a></h2>
+                        <p><strong>Published: </strong>19.01.2024 at 14:44:38</p>
+                        <p><strong>Description: </strong>None</p>
+                        <p><strong>Source: </strong>Google News — Augsburger Allgemeine</p>
+                    </li>
+                
+                    <li>
+                        <h2><a href="https://news.google.com/rss/articles/CBMicWh0dHBzOi8vdXRvcGlhLmRlL25ld3Mvd2FzLWlzdC1kcmFuLWFtLXNvZ2VuYW5udGVuLW1hZW5uZXJzY2hudXBmZW4taW1tdW5vbG9naW4ta2xhZXJ0LWF1Zi1sZWljaHRlci1rcmFua182MzY0OTMv0gEA?oc=5" target="_blank" rel="noopener noreferrer">Was ist dran am &#34;Männerschnupfen&#34;? Immunologin klärt auf - Utopia</a></h2>
+                        <p><strong>Published: </strong>19.01.2024 at 14:40:00</p>
+                        <p><strong>Description: </strong>None</p>
+                        <p><strong>Source: </strong>Google News — Utopia</p>
+                    </li>
+                
+                    <li>
+                        <h2><a href="https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LjI0dml0YS5kZS9nZXN1bmRoZWl0L3VuZ2VudWVnZW5kLW1laW51bmctZXhwZXJ0ZW4tb3J0aG9tb2wtYW5kZXJlLWltbXVua3VyZW4tdGVzdC1ub3RlLXpyLTkyNzY2MDc4Lmh0bWzSAQA?oc=5" target="_blank" rel="noopener noreferrer">Teuer und ohne Nutzen? Orthomol und andere Immunkuren schneiden im Test schlecht ab - 24vita.de</a></h2>
+                        <p><strong>Published: </strong>19.01.2024 at 14:28:27</p>
+                        <p><strong>Description: </strong>None</p>
+                        <p><strong>Source: </strong>Google News — 24vita.de</p>
+                    </li>
+                
+                    <li>
+                        <h2><a href="https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3Lm1lcmt1ci5kZS9sZWJlbi9nZXN1bmRoZWl0L2tlaW1lLWtsb3BhcGllci13Yy1icmlsbGUtbGVnZW4tbmVzdC1iYXVlbi10b2lsZXR0ZS1la2VsLWJha3Rlcmllbi16ci0xMDM1OTkzMC5odG1s0gEA?oc=5" target="_blank" rel="noopener noreferrer">Klopapier auf die WC-Brille legen? Besser nicht - Merkur.de</a></h2>
+                        <p><strong>Published: </strong>19.01.2024 at 14:28:18</p>
+                        <p><strong>Description: </strong>None</p>
+                        <p><strong>Source: </strong>Google News — Merkur.de</p>
+                    </li>
+                
+                    <li>
+                        <h2><a href="https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3LjI0dml0YS5kZS9wcmFldmVudGlvbi93aXJrdW5nLWtyZWJzLXZvcmJldWdlbi1rYWZmZWUta29mZmVpbi1wZmxhbnplbnN0b2ZmZS16ZWxsZW4tc2NodXR6LXBvc2l0aXZlLTkyNzc4NzI2Lmh0bWzSAQA?oc=5" target="_blank" rel="noopener noreferrer">Krebs vorbeugen mit Kaffee: Koffein und Pflanzenstoffe schützen Leber, Darm, Niere und Haut - 24vita.de</a></h2>
+                        <p><strong>Published: </strong>19.01.2024 at 14:28:10</p>
+                        <p><strong>Description: </strong>None</p>
+                        <p><strong>Source: </strong>Google News — 24vita.de</p>
+                    </li>
+                
+                    <li>
+                        <h2><a href="https://news.google.com/rss/articles/CBMid2h0dHBzOi8vd3d3Lm9rLW1hZ2F6aW4uZGUvbGlmZXN0eWxlL2thbG9yaWVuLXphZWhsZW4tZGllc2UtMTAtc2NobGFuay1sZWJlbnNtaXR0ZWwta2FubnN0LWR1LW9obmUtcmV1ZS1lc3Nlbi05Njk0MS5odG1s0gF7aHR0cHM6Ly93d3cub2stbWFnYXppbi5kZS9saWZlc3R5bGUva2Fsb3JpZW4temFlaGxlbi1kaWVzZS0xMC1zY2hsYW5rLWxlYmVuc21pdHRlbC1rYW5uc3QtZHUtb2huZS1yZXVlLWVzc2VuLTk2OTQxLmh0bWw_YW1w?oc=5" target="_blank" rel="noopener noreferrer">Kalorien zählen: Diese 10 schlank-Lebensmittel kannst du ohne Reue essen - OK! Magazin</a></h2>
+                        <p><strong>Published: </strong>19.01.2024 at 14:21:48</p>
+                        <p><strong>Description: </strong>None</p>
+                        <p><strong>Source: </strong>Google News — OK! Magazin</p>
+                    </li>
+                
+                    <li>
+                        <h2><a href="https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3LmJ1c2luZXNzaW5zaWRlci5kZS9sZWJlbi9pbnRlcm5hdGlvbmFsLXBhbm9yYW1hL2VybmFlaHJ1bmctc28tZXNzdC1paHItd2VuaWdlci1ob2NodmVyYXJiZWl0ZXRlLWxlYmVuc21pdHRlbC_SAQA?oc=5" target="_blank" rel="noopener noreferrer">Ernährung: So esst ihr weniger hochverarbeitete Lebensmittel - Business Insider Deutschland</a></h2>
+                        <p><strong>Published: </strong>19.01.2024 at 14:15:10</p>
+                        <p><strong>Description: </strong>None</p>
+                        <p><strong>Source: </strong>Google News — Business Insider Deutschland</p>
+                    </li>
+                
+                    <li>
+                        <h2><a href="https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LjI0dml0YS5kZS9wc3ljaGUvdW50ZXJzY2hpZWRlLWtsYXNzaWNoZS1mb3JtLXN5bXB0b21lLXVyc2FjaGVuLWhvY2hmdW5rdGlvbmFsZS1kZXByZXNzaW9uLTkyNjQ1Mjg5Lmh0bWzSAQA?oc=5" target="_blank" rel="noopener noreferrer">Hochfunktionale Depression: Klassische Symptome und Ursachen - 24vita.de</a></h2>
+                        <p><strong>Published: </strong>19.01.2024 at 14:02:51</p>
+                        <p><strong>Description: </strong>None</p>
+                        <p><strong>Source: </strong>Google News — 24vita.de</p>
+                    </li>
+                
+                    <li>
+                        <h2><a href="https://news.google.com/rss/articles/CBMijAFodHRwczovL3d3dy4yNHZpdGEuZGUvZ2VzdW5kaGVpdC92ZXJsYXVmLXByb2dub3NlLWFsemhlaW1lci1kZW1lbnotYXVzbG9lc2VyLWVyc3RlLWFuemVpY2hlbi1zeW1wdG9tZS1hbHRlci1sZWJlbnNlcndhcnR1bmctenItOTI2NzU3OTkuaHRtbNIBAA?oc=5" target="_blank" rel="noopener noreferrer">Alzheimer-Demenz: Auslöser und erste Anzeichen – in welchem Alter die Erkrankung beginnt - 24vita.de</a></h2>
+                        <p><strong>Published: </strong>19.01.2024 at 14:02:43</p>
+                        <p><strong>Description: </strong>None</p>
+                        <p><strong>Source: </strong>Google News — 24vita.de</p>
+                    </li>
+                
+                    <li>
+                        <h2><a href="https://news.google.com/rss/articles/CBMifmh0dHBzOi8vd3d3LnJuZC5kZS9nZXN1bmRoZWl0L2xvbmctY292aWQtbG9uZy1ncmlwcGUtdW5kLWxvbmctc2NobnVwZmVuLWlzdC1kYXMtYWxsZXMtZGFzc2VsYmUtUkNIRFUzMlZaQkRLUEpZVjJBUlVWSVFaVFEuaHRtbNIBkwFodHRwczovL3d3dy5ybmQuZGUvZ2VzdW5kaGVpdC9sb25nLWNvdmlkLWxvbmctZ3JpcHBlLXVuZC1sb25nLXNjaG51cGZlbi1pc3QtZGFzLWFsbGVzLWRhc3NlbGJlLVJDSERVMzJWWkJES1BKWVYyQVJVVklRWlRRLmh0bWw_b3V0cHV0VHlwZT12YWxpZF9hbXA?oc=5" target="_blank" rel="noopener noreferrer">Long Covid, Long Grippe und Long Schnupfen: Ist das alles dasselbe? - RND</a></h2>
+                        <p><strong>Published: </strong>19.01.2024 at 14:00:00</p>
+                        <p><strong>Description: </strong>None</p>
+                        <p><strong>Source: </strong>Google News — RND</p>
+                    </li>
+                
+                    <li>
+                        <h2><a href="https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3LmthLW5ld3MuZGUvcmVnaW9uL2thcmxzcnVoZS9jb3JvbmEtaW5mZWt0aW9uLXNvbGwtcmlzaWtvLWZ1ZXItZnJ1ZWhnZWJ1cnRlbi1lcmhvZWhlbi0xOS0xLTI0LWFydC0zMDU4OTY50gEA?oc=5" target="_blank" rel="noopener noreferrer">Corona-Infektion soll Risiko für Frühgeburten erhöhen - ka-news.de</a></h2>
+                        <p><strong>Published: </strong>19.01.2024 at 13:21:48</p>
+                        <p><strong>Description: </strong>None</p>
+                        <p><strong>Source: </strong>Google News — ka-news.de</p>
+                    </li>
+                
+            </ul>
+        
+    </div>
+
+    <footer>
+        <p>Local Health News &copy; 2024</p>
+        <p>created by <strong><a  style="color: #fff;" href="https://github.com/Anukuga" target="_blank" rel="noopener noreferrer">Anukuga</a></strong></p>
+    </footer>
+</body>
+</html>
