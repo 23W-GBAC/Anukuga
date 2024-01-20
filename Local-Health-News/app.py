@@ -1,4 +1,5 @@
 from flask import Flask, render_template
+from flask_frozen import Freezer
 import requests
 from datetime import datetime
 import pytz
@@ -6,6 +7,7 @@ import asyncio
 import httpx
 
 app = Flask(__name__)
+freezer = Freezer(app)
 
 NEWS_API_KEY = 'e1891e03afba41dc8ee7ccd2d5cdb23c'
 
@@ -106,4 +108,4 @@ def index():
     return render_template('index.html', greeting=greeting, last_refreshed=last_refreshed, health_news=health_news, format_news_date=format_news_date, country_name=country_name, region_name=region_name, ip_address=ip_address)
 
 if __name__ == "__main__":
-    app.run(debug=True)
+    freezer.freeze()
