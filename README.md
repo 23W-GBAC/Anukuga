@@ -30,15 +30,19 @@ Embark on a delectable journey with 'Wholesome Bites,' where culinary excellence
 
 The Local Health News app is a Flask web application designed to provide users with the latest health news based on their geographical location. Leveraging the IP address of the user, the app retrieves information such as time zone, country code, and region. It then fetches health news specific to the user's country using the News API.
 
-[Link to Local Health News page](Local-Health-News/templates/index.html)
+[Link to Local Health News (static page)](Local-Health-News/build/index.html)
 
 [Link to Project Description](automation.md)
 
 **Please Note:**
 
-To use the Local Health News app, follow these steps:
+To dynamically load the Local Health News app with latest news, follow these steps:
 
 1. Clone the GitHub repository to your local machine.
 2. Install the required dependencies using `pip install -r requirements.txt`
-3. Run the Flask app using `python app.py`
-4. Access the app in your web browser at `http://127.0.0.1:5000/`
+3. Remove or comment out the following lines of code from app.py:  
+`from flask_frozen import Freezer`  
+`freezer = Freezer(app)`  
+`freezer.freeze()`  
+4. Run the Flask app using `python app.py`
+5. Access the app in your web browser at `http://127.0.0.1:5000/`
