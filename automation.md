@@ -28,12 +28,16 @@ The footer includes a copyright notice and attribution to the app's creator with
 
 ## Usage
 
-To use the Local Health News app, follow these steps:
+To dynamically load the Local Health News app with latest news, follow these steps:
 
 1. Clone the GitHub repository to your local machine.
-2. Install the required dependencies using `pip install -r requirements.txt`.
-3. Run the Flask app using `python app.py`.
-4. Access the app in your web browser at `http://127.0.0.1:5000/`.
+2. Install the required dependencies using `pip install -r requirements.txt`
+3. Remove or comment out the following lines of code from app.py:  
+`from flask_frozen import Freezer`  
+`freezer = Freezer(app)`  
+`freezer.freeze()`  
+4. Run the Flask app using `python app.py`
+5. Access the app in your web browser at `http://127.0.0.1:5000/`
 
 ## Technologies Used
 
