@@ -1,60 +1,35 @@
-# Local Health News App
+#Problem and Context of the Automation
+In the era of information overload, keeping track of the latest health news tailored to one's locality can be challenging. Traditional news platforms may not always prioritize local health concerns, leading to a gap in accessible and relevant information. Additionally, manually browsing through various sources to gather such data can be time-consuming and inefficient.
 
-## Overview
+#Possible Solutions and Errand Attempts to Develop a Solution
+Several approaches could address the problem outlined above:
 
-The Local Health News app is a Flask web application designed to provide users with the latest health news based on their geographical location. Leveraging the IP address of the user, the app retrieves information such as time zone, country code, and region. It then fetches health news specific to the user's country using the News API.
+##Manual Aggregation: Initially, manually curating health news relevant to different regions might seem feasible. However, this approach is labor-intensive and prone to inconsistencies. It also lacks scalability as it cannot accommodate a growing user base.
 
-## Features
+##Automated Data Retrieval: Utilizing APIs like News API and IPinfo API, we can automate the process of fetching health news based on the user's location. This approach significantly reduces manual effort and ensures real-time access to relevant information.
 
-### 1. Personalized Greeting and Time Information
+##Web Application Development: Building a user-friendly web application using frameworks like Flask allows for seamless interaction with the automated data retrieval system. Incorporating responsive design ensures accessibility across various devices.
 
-Upon accessing the app, users are greeted with a personalized message based on the time of day (Good Morning, Good Afternoon, or Good Evening). The app also displays the current time and date in the user's local time zone.
+##Final Solution
+The Local Health News app combines automated data retrieval with a user-friendly interface to deliver personalized health news based on the user's geographical location. By leveraging the News API and IPinfo API, the app dynamically fetches and displays the latest health headlines specific to the user's country. The Flask web application ensures smooth functionality, while responsive design enhances usability.
 
-### 2. Location Information
+#Advantages:
+##Personalization: Users receive health news tailored to their locality, enhancing relevance and engagement.
+##Efficiency: Automation reduces manual effort in sourcing and curating news content, saving time and resources.
+##Accessibility: The web application's responsive design ensures accessibility across different devices, maximizing reach.
+#Disadvantages:
+##Dependence on External APIs: Reliability of the app relies on the uptime and performance of external APIs like News API and IPinfo API.
+##Limited Scope: The app currently focuses on health news; expanding to cover other domains might require additional development effort and resources.
+Cost-Benefit-Analysis
+#Time and Resources Invested:
+##Development Time: Approximately 4 weeks for initial development and testing.
+##Resources: Minimal cost for hosting the web application and accessing external APIs.
+#Time and Resources Saved:
+##Manual Effort: Estimated to save 1 hour daily for each user in searching for relevant health news.
+##Scalability: As the user base grows, the time and resources saved scale accordingly.
+#Economic Benefits:
+Considering the time and resources saved over the next 5 years, the automation proves economically beneficial:
 
-The app retrieves the user's IP address, region name, and country code using the IPinfo API. Additionally, a tooltip provides information about the user's approximate location based on their public IP address.
-
-### 3. Health News Feed
-
-The main feature of the app is the display of the latest health news relevant to the user's country. The app uses the News API to fetch top health headlines for the specified country. Each news article includes a title, publication date, description, and source information.
-
-### 4. Responsive Design
-
-The app utilizes a responsive design, making it accessible and user-friendly across various devices and screen sizes.
-
-### 5. Footer Information
-
-The footer includes a copyright notice and attribution to the app's creator with a link to their GitHub profile.
-
-## Usage
-
-To dynamically load the Local Health News app with latest news, follow these steps:
-
-1. Clone the GitHub repository to your local machine.
-2. Install the required dependencies using `pip install -r requirements.txt`
-3. Remove or comment out the following lines of code from app.py:  
-`from flask_frozen import Freezer`  
-`freezer = Freezer(app)`  
-`freezer.freeze()`  
-4. Run the Flask app using `python app.py`
-5. Access the app in your web browser at `http://127.0.0.1:5000/`
-
-## Technologies Used
-
-- **Flask**: A lightweight web application framework for Python.
-- **HTML/CSS**: Used for structuring and styling the web pages.
-- **JavaScript**: Notably used for the tooltip feature.
-- **News API**: Provides access to real-time and historical news data.
-
-## Dependencies
-
-The app relies on the following external services and APIs:
-
-- **IPinfo API**: Retrieves IP address and location information.
-- **News API**: Fetches health news based on the user's country.
-
-## Author & Acknowledgements
-
-The Local Health News app was created by [Anukuga](https://github.com/Anukuga). Special thanks to the developers of IPinfo and News API for providing the necessary data for this application.
-
-**[back to homepage](https://23w-gbac.github.io/Anukuga/)**
+##Estimated time saved per user over 5 years: 1825 hours.
+Corresponding labor cost savings based on average hourly wage.
+Overall, the Local Health News app offers substantial time savings and enhanced accessibility, making it economically viable in the long run.
