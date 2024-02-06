@@ -35,3 +35,5 @@ Ensuring the web application's compatibility across different devices and browse
 ## Conclusion
 
 In conclusion, the development of an automated, scalable, and user-friendly solution for delivering personalized health news involved a combination of strategies. Automated data retrieval using APIs emerged as the most efficient and scalable method, supplemented by the development of a responsive web application for easy user access. While challenges such as content reliability, user privacy, and cross-platform compatibility were encountered, iterative design and development processes were employed to address these issues effectively. The result is a solution that not only solves the initial problem but also adapts to the evolving landscape of digital news consumption.
+
+**[back to homepage](https://23w-gbac.github.io/Anukuga/)**
