@@ -1,1 +1,2 @@
-
+# Problem and Context of the Automation
+In the era of information overload, keeping track of the latest health news tailored to one's locality can be challenging. Traditional news platforms may not always prioritize local health concerns, leading to a gap in accessible and relevant information. Additionally, manually browsing through various sources to gather such data can be time-consuming and inefficient.
