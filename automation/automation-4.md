@@ -58,3 +58,5 @@ The development of the Local Health News app spanned approximately four weeks, w
 ## Conclusion
 
 In conclusion, the Local Health News app represents a significant advancement in automating the delivery of personalized news content. The initial investment in terms of development time and resources is outweighed by the substantial time savings and economic benefits it offers. The app not only saves time for its users but also contributes to increased productivity and better health awareness. As the user base expands, these benefits will continue to grow, making the app an economically beneficial solution in the realm of digital news consumption. The app's scalable nature means that as it evolves, the potential for further cost savings and benefits increases, making it a valuable asset in the ever-changing digital landscape.
+
+**[back to homepage](https://23w-gbac.github.io/Anukuga/)**
