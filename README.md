@@ -32,7 +32,7 @@ The Local Health News app is a Flask web application designed to provide users w
 
 [Link to Local Health News (static page)](Local-Health-News/build/index.html)
 
-[Link to Project Description](automation/Problem and Context of the Automation.md)
+[Link to Project Description](automation)
 
 **Please Note:**
 
