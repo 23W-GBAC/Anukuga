@@ -3,18 +3,17 @@
 ## Time and Resources Invested:
 
 
-### Development Time: Approximately 4 weeks for initial development and testing.
+ Development Time: Approximately 4 weeks for initial development and testing.
 
-### Resources: Minimal cost for hosting the web application and accessing external APIs.
+ Resources: Minimal cost for hosting the web application and accessing external APIs.
 
 
 ## Time and Resources Saved:
 
 
+Manual Effort: Estimated to save 1 hour daily for each user in searching for relevant health news.
 
-### Manual Effort: Estimated to save 1 hour daily for each user in searching for relevant health news.
-
-### Scalability: As the user base grows, the time and resources saved scale accordingly.
+Scalability: As the user base grows, the time and resources saved scale accordingly.
 
 
 
