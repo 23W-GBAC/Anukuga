@@ -15,13 +15,13 @@ Investigate the role of genetic mutations, environmental factors, and lifestyle 
 ##### 1. Genetic Mutations:
 Changes in the DNA sequence can be inherited or acquired over time due to exposure to environmental factors like radiation, tobacco smoke, or certain chemicals.
 
-###### 2. Inherited Genetic Predisposition:
+##### 2. Inherited Genetic Predisposition:
 Some individuals inherit genetic mutations that increase their susceptibility to certain types of cancer.
 
 ##### 3. Environmental Factors:
 Exposure to carcinogens, such as pollutants, UV radiation, or certain viruses, can contribute to genetic mutations and increase the risk of cancer.
 
-###### 4. Age:
+##### 4. Age:
 Cancer is more common in older individuals, and cumulative exposure to risk factors over time increases the likelihood of genetic mutations.
 
 Understanding the origins of cancer is crucial for prevention, early detection, and developing targeted therapies. Ongoing research aims to uncover the specific genetic and environmental factors that contribute to different types of cancer.
