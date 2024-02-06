@@ -19,3 +19,5 @@ Privacy and data security are also paramount concerns in the development of such
 Finally, the solution should be scalable and flexible to accommodate future expansions and integrations. The health news landscape is constantly evolving, with new sources emerging and existing ones updating their content and format. The system should be able to adapt to these changes, ensuring its long-term viability and usefulness.
 
 In sum, the need for an automated health news aggregation and personalization system stems from the challenges posed by the current landscape of news consumption. Such a system would address the issues of information overload, lack of personalization, time sensitivity, user accessibility, adaptability to different regions and languages, privacy concerns, and future scalability. The next sections will delve into the possible solutions, the development process, and a cost-benefit analysis of the proposed system.
+
+**[back to homepage](https://23w-gbac.github.io/Anukuga/)**
