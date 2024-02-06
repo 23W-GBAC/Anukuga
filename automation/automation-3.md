@@ -57,3 +57,5 @@ To further improve the Local Health News app, several enhancements could be cons
 6. **User Feedback Mechanism**: Incorporating a system for user feedback on article relevance and quality could help in continuously refining the news curation algorithm.
 
 In conclusion, the Local Health News app represents a significant step forward in addressing the need for timely, relevant, and personalized health news. By leveraging advanced technologies and user-centric design, it offers a unique solution that not only simplifies access to information but also enhances the overall news consumption experience. While there are areas for improvement and expansion, the app sets a solid foundation for future advancements in personalized news delivery.
+
+**[back to homepage](https://23w-gbac.github.io/Anukuga/)**
