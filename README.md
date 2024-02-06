@@ -32,7 +32,7 @@ The Local Health News app is a Flask web application designed to provide users w
 
 [Link to Local Health News (static page)](Local-Health-News/build/index.html)
 
-[Link to Project Description](automation)
+[Link to Project Description](automation.md)
 
 **Please Note:**
 
@@ -40,7 +40,7 @@ To dynamically load the Local Health News app with latest news, follow these ste
 
 1. Clone the GitHub repository to your local machine.
 2. Install the required dependencies using `pip install -r requirements.txt`
-3. Remove or comment out the following lines of code from app.py:  
+3. Remove or comment out the following lines of code from python console:  
 `from flask_frozen import Freezer`  
 `freezer = Freezer(app)`  
 `freezer.freeze()`  
