@@ -30,7 +30,9 @@ Cost-Benefit-Analysis
 ## Scalability: As the user base grows, the time and resources saved scale accordingly.
 # Economic Benefits:
 Considering the time and resources saved over the next 5 years, the automation proves economically beneficial:
+The app also saves the data one would hane used on the internet surfing for information.
 
 ## Estimated time saved per user over 5 years: 1825 hours.
 Corresponding labor cost savings based on average hourly wage.
 Overall, the Local Health News app offers substantial time savings and enhanced accessibility, making it economically viable in the long run.
+
