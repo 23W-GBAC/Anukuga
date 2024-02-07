@@ -27,12 +27,14 @@ Cancer is more common in older individuals, and cumulative exposure to risk fact
 Understanding the origins of cancer is crucial for prevention, early detection, and developing targeted therapies. Ongoing research aims to uncover the specific genetic and environmental factors that contribute to different types of cancer.
 
 #### Cancer Metastasis:
+
 ![image](https://github.com/23W-GBAC/Anukuga/assets/74722296/059e858a-de55-4c27-933f-1ee24ea8f4d8)
 
 Examine the mysteries surrounding the metastatic spread of cancer cells.
 Investigate the factors that contribute to the ability of cancer cells to migrate to distant parts of the body.
 
 #### Cancer Immunotherapy:
+
 ![image](https://github.com/23W-GBAC/Anukuga/assets/74722296/3bf88302-dec1-490c-8704-0c0ab784c767)
 
 Explore the mystery of why some patients respond exceptionally well to immunotherapy while others do not.
@@ -44,11 +46,13 @@ Examine the role of cancer stem cells in tumor initiation, progression, and recu
 Explore the mystery of how these cells evade traditional cancer treatments.
 
 #### Cancer Clusters:
+
 ![image](https://github.com/23W-GBAC/Anukuga/assets/74722296/302c7b8f-40ab-4626-b92a-8d70ae03be2c)
 
 Investigate the occurrence of cancer clusters in specific geographic areas and explore potential environmental or genetic factors contributing to these clusters.
 
 #### Rare Cancers:
+
 ![image](https://github.com/23W-GBAC/Anukuga/assets/74722296/aa493416-a552-480d-9fc5-bc208440139d)
 
 Explore the mysteries surrounding rare and less-studied types of cancers.
@@ -70,6 +74,7 @@ Tumors are frequently heterogeneous; they may include a variety of cell types wi
 The immune system and cancer interact in a complex way. Surprising progress in targeting and fighting cancer has been made possible by recent advances in immunotherapy.
 
 ### Biopsies in liquid:
+
 ![image](https://github.com/23W-GBAC/Anukuga/assets/74722296/bc53ea4b-f635-4540-8603-a41eb896ce4e)
 
 It was unexpected to learn that liquid biopsies may be used to detect genetic changes linked to cancer with a straightforward blood test. This non-invasive method has the potential to completely change how cancer is detected and tracked.
@@ -82,6 +87,7 @@ The surrounding cells and tissue, referred to as the tumor microenvironment, are
 
 
 ## The Dark Side of Cancer: Unraveling its Secrets
+
 ![image](https://github.com/23W-GBAC/Anukuga/assets/74722296/4620e510-1e2e-42e6-8184-19f78a3175f8)
 
 Cancer, a complex group of diseases, involves abnormal cell growth with various underlying causes. Unraveling its secrets involves understanding genetic mutations, environmental factors, and the intricate interplay of cellular processes. Research aims to decipher these complexities, paving the way for targeted therapies and early detection methods. However, the dark side lies in the challenges of treatment resistance, metastasis, and the profound impact on patients and their families. Ongoing scientific efforts strive to illuminate these aspects and develop innovative strategies to combat the multifaceted nature of cancer.
